@@ -1,0 +1,35 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+  background-image: url("woodpanel.jpg");
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1{
+    text-align: center;
+    border-bottom: solid black;
+    background-color: darkgray;
+}
+
+form {
+    text-align: center;
+}
+
+p {
+    background-color: darkgray;
+    text-align: center;
+    margin: 20px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
